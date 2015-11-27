@@ -1,0 +1,3 @@
+%{"bunt": {:hex, :bunt, "0.1.4"},
+  "credo": {:hex, :credo, "0.1.10"},
+  "dialyze": {:hex, :dialyze, "0.2.0"}}

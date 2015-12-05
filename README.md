@@ -1,18 +1,18 @@
 # ETSMap
 
-**TODO: Add description**
+A Map-like Elixir data structure that is backed by an ETS table.
 
 ## Installation
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed as:
+The package can be installed by:
 
-  1. Add ets_dict to your list of dependencies in `mix.exs`:
+  1. Adding ets_map to your list of dependencies in `mix.exs`:
 
         def deps do
           [{:ets_map, "~> 0.0.1"}]
         end
 
-  2. Ensure ets_dict is started before your application:
+  2. Ensuring ets_map is started before your application:
 
         def application do
           [applications: [:ets_map]]
